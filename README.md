@@ -1,6 +1,6 @@
 # Alexander Leiar — video deliverables
 
-[Download all deliverables](../../raw/main/Alexander_Leiar_All_Deliverables.zip)
+[Download all deliverables](https://github.com/ahleiar/test/raw/refs/heads/main/Alexander_Leiar_All_Deliverables.zip)
 
 If GitHub displays the ZIP file page, choose **Download raw file**. The bundle is approximately 75 MB.
 
