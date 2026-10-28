@@ -1,3 +1,15 @@
+# Alexander Leiar — video project
+
+## Modern edit — motion preview
+
+[Watch or download the new 14-second preview](https://github.com/ahleiar/test/raw/refs/heads/main/Alexander_Leiar_Modern_Style_Preview.mp4)
+
+![Animated motion preview](Modern_Style_Preview.gif)
+
+This is a style preview combining the redesigned opening and sales-figure sequence, not the finished narrative edit. It uses the supplied footage with edge-to-edge images, quick cuts, moving typography and animated numerical reveals. No stock footage or generative replacement clips have been inserted. The full edit is held for feedback on this direction.
+
+## Earlier delivery
+
 # Alexander Leiar — video deliverables
 
 [Download all deliverables](https://github.com/ahleiar/test/raw/refs/heads/main/Alexander_Leiar_All_Deliverables.zip)
