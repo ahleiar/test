@@ -1,0 +1,19 @@
+{
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "frames": "4132",
+    "fps": "24/1",
+    "duration": "172.166667"
+  },
+  "audio": {
+    "sample_rate": "48000",
+    "channels": 2,
+    "duration": "172.166000"
+  },
+  "decode": "passed full audio/video decode with -xerror",
+  "scene_validation": "27 of 27 matched frame counts and decoded",
+  "generative_replacements": "not generated; user selected local work",
+  "source_resolution": "1280x720",
+  "output_bytes": 45312571
+}
