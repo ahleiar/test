@@ -1,0 +1,106 @@
+[
+  {
+    "line": "A1-01",
+    "start": 0.0,
+    "duration": 7.333333333333333,
+    "recording_slot": "R01A",
+    "stock_slots": [
+      "ST01"
+    ]
+  },
+  {
+    "line": "A1-02",
+    "start": 7.333333333333333,
+    "duration": 15.875,
+    "recording_slot": "R01B",
+    "stock_slots": []
+  },
+  {
+    "line": "A1-03",
+    "start": 23.208333333333332,
+    "duration": 18.958333333333332,
+    "recording_slot": "R02-OPTIONAL",
+    "stock_slots": [
+      "ST02"
+    ]
+  },
+  {
+    "line": "A2-01",
+    "start": 42.166666666666664,
+    "duration": 15.083333333333334,
+    "recording_slot": "R02-OPTIONAL",
+    "stock_slots": []
+  },
+  {
+    "line": "A2-02",
+    "start": 57.25,
+    "duration": 12.708333333333334,
+    "recording_slot": "R02-OPTIONAL",
+    "stock_slots": [
+      "ST03",
+      "ST04"
+    ]
+  },
+  {
+    "line": "A3-01",
+    "start": 69.95833333333333,
+    "duration": 17.041666666666668,
+    "recording_slot": "R03A",
+    "stock_slots": [
+      "ST05",
+      "ST06",
+      "ST07"
+    ]
+  },
+  {
+    "line": "A3-02",
+    "start": 87.0,
+    "duration": 16.083333333333332,
+    "recording_slot": "R03-OPTIONAL",
+    "stock_slots": [
+      "ST08",
+      "ST09"
+    ]
+  },
+  {
+    "line": "A3-03",
+    "start": 103.08333333333333,
+    "duration": 10.458333333333334,
+    "recording_slot": "R03B",
+    "stock_slots": [
+      "ST10"
+    ]
+  },
+  {
+    "line": "A4-01",
+    "start": 113.54166666666667,
+    "duration": 13.958333333333334,
+    "recording_slot": "R04",
+    "stock_slots": []
+  },
+  {
+    "line": "A4-02",
+    "start": 127.5,
+    "duration": 17.791666666666668,
+    "recording_slot": "R04",
+    "stock_slots": [
+      "ST11"
+    ]
+  },
+  {
+    "line": "A5-01",
+    "start": 145.29166666666666,
+    "duration": 8.125,
+    "recording_slot": "R05",
+    "stock_slots": [
+      "ST12"
+    ]
+  },
+  {
+    "line": "A5-02",
+    "start": 153.41666666666666,
+    "duration": 12.75,
+    "recording_slot": "R05",
+    "stock_slots": []
+  }
+]

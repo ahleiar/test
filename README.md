@@ -1,3 +1,22 @@
+# Alexander Leiar — current production
+
+## Five-act script revision — current V3
+
+[Watch/download the selected-sequence review](https://github.com/ahleiar/test/raw/refs/heads/main/production-v3/Alexander_Leiar_V3_Sequence_Review.mp4) · [Editable assembly bundle](https://github.com/ahleiar/test/raw/refs/heads/main/production-v3/Alexander_Leiar_V3_Editable_Assembly.zip)
+
+The script now follows Alexander’s five acts. His wildlife, both water polo sources and personal moments are retained. Camera/voice pickups and generic stock replacements are explicitly marked in the editable timeline. This review reel shows selected retained footage, the professional route animation and the contact card; **it is not the full narrative film**.
+
+- [Approved script](production-v3/SCRIPT.md)
+- [Recording slots and capture guide](production-v3/RECORDING_GUIDE.md)
+- [Picture and stock replacement plan](production-v3/PICTURE_PLAN.md)
+- [Project notes and validation](production-v3/README.md)
+
+Closing card: **alexleiar@gmail.com** · [LinkedIn](https://www.linkedin.com/in/alex-leiar-395b1a415/)
+
+Stock sites remain blocked in the current environment. Access domains are saved in the environment draft but not yet active. No stock clips have been downloaded or licensed, and new recordings are still pending.
+
+## Earlier previews and delivery
+
 # Alexander Leiar — video project
 
 ## Modern edit — motion preview

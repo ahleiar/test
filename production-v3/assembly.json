@@ -1,0 +1,171 @@
+{
+  "version": 3,
+  "status": "offline assembly; recording slots intentionally marked; stock pending",
+  "fps": 24,
+  "contacts": {
+    "name": "Alexander Leiar",
+    "email": "alexleiar@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/alex-leiar-395b1a415/"
+  },
+  "timing_basis": "155 words/minute planning estimate, not final audio timing",
+  "lines": [
+    {
+      "line_id": "A1-01",
+      "start": 0,
+      "duration": 7.35,
+      "text": "One word I would use to describe myself is cosmopolitan—which in Greek means a citizen of the world.",
+      "recording_slot": "R01A",
+      "camera_slot": true,
+      "review_marker": "RECORDING REQUIRED — R01A",
+      "voice_status": "new recording pending",
+      "stock_slots": [
+        "ST01"
+      ]
+    },
+    {
+      "line_id": "A1-02",
+      "start": 7.35,
+      "duration": 15.87,
+      "text": "Hi, I’m Alexander Leiar, a third-year business student at the University of Arizona’s Eller College of Management. For leaders in commercial real estate and entrepreneurship, I bring an international perspective, the ability to adapt, and a genuine interest in building relationships.",
+      "recording_slot": "R01B",
+      "camera_slot": true,
+      "review_marker": "RECORDING REQUIRED — R01B",
+      "voice_status": "new recording pending",
+      "stock_slots": []
+    },
+    {
+      "line_id": "A1-03",
+      "start": 23.22,
+      "duration": 18.97,
+      "text": "My story is a little different from most. I was born in Portugal and grew up in South Africa, where I was exposed to different cultures, people, and ways of life from an early age. That experience taught me to stay open-minded and make the most of new situations.",
+      "recording_slot": "R02-OPTIONAL",
+      "camera_slot": false,
+      "review_marker": null,
+      "voice_status": "existing audio reference; verify exact wording",
+      "stock_slots": [
+        "ST02"
+      ]
+    },
+    {
+      "line_id": "A2-01",
+      "start": 42.19,
+      "duration": 15.1,
+      "text": "Growing up, sports were a big part of my life. I played rugby and water polo and swam competitively. Those experiences taught me discipline, resilience, and how to perform both as part of a team and on my own.",
+      "recording_slot": "R02-OPTIONAL",
+      "camera_slot": false,
+      "review_marker": null,
+      "voice_status": "existing audio reference; verify exact wording",
+      "stock_slots": []
+    },
+    {
+      "line_id": "A2-02",
+      "start": 57.29,
+      "duration": 12.39,
+      "text": "Traveling across Africa, Europe, and Asia also pushed me outside my comfort zone. Each place introduced me to new perspectives and helped me become more comfortable connecting with people from different backgrounds.",
+      "recording_slot": "R02-OPTIONAL",
+      "camera_slot": false,
+      "review_marker": null,
+      "voice_status": "existing audio reference; verify exact wording",
+      "stock_slots": [
+        "ST03",
+        "ST04"
+      ]
+    },
+    {
+      "line_id": "A3-01",
+      "start": 69.68,
+      "duration": 17.03,
+      "text": "That adaptability has carried into my professional experiences. At Fine & Rare Wines in South Africa, I gained exposure to supply chain operations and client service. At DM Financial in Ireland, I worked with financial statements, helped with payroll and supported the management accounts team.",
+      "recording_slot": "R03A",
+      "camera_slot": false,
+      "review_marker": null,
+      "voice_status": "new recording pending",
+      "stock_slots": [
+        "ST05",
+        "ST06",
+        "ST07"
+      ]
+    },
+    {
+      "line_id": "A3-02",
+      "start": 86.71,
+      "duration": 14.71,
+      "text": "Most recently, at Abstrakt Marketing Group in St. Louis, I stepped into a fast-paced sales environment and connected with business leaders to identify opportunities. There, I generated 10 qualified appointments representing roughly $250,000 in potential pipeline revenue.",
+      "recording_slot": "R03-OPTIONAL",
+      "camera_slot": false,
+      "review_marker": null,
+      "voice_status": "existing audio reference; verify exact wording",
+      "stock_slots": [
+        "ST08",
+        "ST09"
+      ]
+    },
+    {
+      "line_id": "A3-03",
+      "start": 101.42,
+      "duration": 10.45,
+      "text": "Each experience challenged me in a different way, but all three taught me the importance of getting comfortable being uncomfortable, building trust, and being willing to learn.",
+      "recording_slot": "R03B",
+      "camera_slot": false,
+      "review_marker": null,
+      "voice_status": "new recording pending",
+      "stock_slots": [
+        "ST10"
+      ]
+    },
+    {
+      "line_id": "A4-01",
+      "start": 111.87,
+      "duration": 13.94,
+      "text": "Today, I bring those lessons with me to Eller and to the Arizona water polo team. Balancing academics, athletics, and professional opportunities has strengthened my time management and commitment to the people who count on me.",
+      "recording_slot": "R04",
+      "camera_slot": true,
+      "review_marker": "RECORDING REQUIRED — R04",
+      "voice_status": "new recording pending",
+      "stock_slots": []
+    },
+    {
+      "line_id": "A4-02",
+      "start": 125.81,
+      "duration": 17.81,
+      "text": "For a real estate team or growing business, I bring a willingness to learn, a perspective shaped by international experiences, and the communication skills to connect with different people. I’m excited by opportunities where I can help build relationships, solve problems, and contribute to a team.",
+      "recording_slot": "R04",
+      "camera_slot": true,
+      "review_marker": "RECORDING REQUIRED — R04",
+      "voice_status": "new recording pending",
+      "stock_slots": [
+        "ST11"
+      ]
+    },
+    {
+      "line_id": "A5-01",
+      "start": 143.62,
+      "duration": 8.13,
+      "text": "Looking ahead, I want to learn from experienced professionals, explore commercial real estate, and eventually start a business of my own.",
+      "recording_slot": "R05",
+      "camera_slot": true,
+      "review_marker": "RECORDING REQUIRED — R05",
+      "voice_status": "new recording pending",
+      "stock_slots": [
+        "ST12"
+      ]
+    },
+    {
+      "line_id": "A5-02",
+      "start": 151.75,
+      "duration": 12.77,
+      "text": "If you’re looking for someone who is curious, adaptable, and ready to contribute, I’d love to connect through LinkedIn or email. Thank you for taking the time to learn a little about me.",
+      "recording_slot": "R05",
+      "camera_slot": true,
+      "review_marker": "RECORDING REQUIRED — R05",
+      "voice_status": "new recording pending",
+      "stock_slots": []
+    }
+  ],
+  "end_card": {
+    "start": 164.52,
+    "duration": 5,
+    "file": "Contact_Card_Preview.mp4"
+  },
+  "estimated_duration": 169.52
+}

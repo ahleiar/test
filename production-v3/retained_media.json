@@ -1,0 +1,46 @@
+[
+  {
+    "id": "OWN-SA-01",
+    "source": "original MP4 33.3\u201335.8s",
+    "content": "Elephant/safari",
+    "keep": true
+  },
+  {
+    "id": "OWN-SA-02",
+    "source": "original MP4 42.0\u201344.1s",
+    "content": "Giraffes",
+    "keep": true
+  },
+  {
+    "id": "OWN-SA-03",
+    "source": "original MP4 45.3\u201347.6s",
+    "content": "Lion",
+    "keep": true
+  },
+  {
+    "id": "OWN-SPORT-SA",
+    "source": "original MP4 53.2\u201361.1s",
+    "content": "South African water polo",
+    "keep": true
+  },
+  {
+    "id": "OWN-SPORT-AZ",
+    "source": "original MP4 129.1\u2013135.2s",
+    "content": "Arizona water polo",
+    "keep": true
+  },
+  {
+    "id": "OWN-PORTRAIT",
+    "source": "original MP4 74.7\u201375.7s",
+    "content": "Alexander in front of the clock",
+    "keep": true,
+    "use": "brief authentic personal insert; no stock person replacement"
+  },
+  {
+    "id": "OWN-CAMPUS",
+    "source": "original MP4 12.1\u201329.5s, excluding overlays",
+    "content": "Actual university campus coverage",
+    "keep": true,
+    "use": "short relevant inserts; no repetitive long campus holds"
+  }
+]
