@@ -1,3 +1,17 @@
+# Alexander Leiar — complete all-new edit
+
+## Full all-new film — 2:55
+
+[**Watch / download the full film**](https://github.com/ahleiar/test/raw/refs/heads/main/Alexander_Leiar_Full_Edit_All_New.mp4)
+
+[![Full film](all-new-edit/Poster.jpg)](https://github.com/ahleiar/test/raw/refs/heads/main/Alexander_Leiar_Full_Edit_All_New.mp4)
+
+This is the complete five-act narrated concept film, with new imagery, depth-camera motion, a custom 3D globe, animated figures, original music/sound design and the supplied email/LinkedIn closing card. **No original user footage, photos or original audio are used.**
+
+The voice is a generic synthetic narrator. Most scene imagery is AI-generated and animated; two legacy stock inserts are included. Illustrations are not documentary footage of Alexander. [Sources, production notes and validation](all-new-edit/CREDITS.md) · [Optional captions](all-new-edit/Captions.srt)
+
+## Earlier versions
+
 # Alexander Leiar — current production
 
 ## Five-act script revision — current V3

@@ -1,0 +1,208 @@
+{
+  "voice": "am_michael",
+  "synthetic": true,
+  "model": "Kokoro v1.0, Apache 2.0; kokoro-onnx MIT",
+  "sample_rate": 24000,
+  "speed": 1.02,
+  "duration": 190.67795833333332,
+  "sentences": [
+    {
+      "act": 1,
+      "line": "A1-01",
+      "sentence": "One word I would use to describe myself is cosmopolitan—which in Greek means a citizen of the world.",
+      "start": 0.55,
+      "end": 7.6310416666666665,
+      "voice": "am_michael"
+    },
+    {
+      "act": 1,
+      "line": "A1-02",
+      "sentence": "Hi, I’m Alexander Leiar, a third-year business student at the University of Arizona’s Eller College of Management.",
+      "start": 7.971041666666666,
+      "end": 16.087249999999997,
+      "voice": "am_michael"
+    },
+    {
+      "act": 1,
+      "line": "A1-02",
+      "sentence": "For leaders in commercial real estate and entrepreneurship, I bring an international perspective, the ability to adapt, and a genuine interest in building relationships.",
+      "start": 16.327249999999996,
+      "end": 27.730333333333327,
+      "voice": "am_michael"
+    },
+    {
+      "act": 1,
+      "line": "A1-03",
+      "sentence": "My story is a little different from most.",
+      "start": 28.070333333333327,
+      "end": 30.600208333333327,
+      "voice": "am_michael"
+    },
+    {
+      "act": 1,
+      "line": "A1-03",
+      "sentence": "I was born in Portugal and grew up in South Africa, where I was exposed to different cultures, people, and ways of life from an early age.",
+      "start": 30.840208333333326,
+      "end": 40.31091666666666,
+      "voice": "am_michael"
+    },
+    {
+      "act": 1,
+      "line": "A1-03",
+      "sentence": "That experience taught me to stay open-minded and make the most of new situations.",
+      "start": 40.55091666666666,
+      "end": 46.01541666666666,
+      "voice": "am_michael"
+    },
+    {
+      "act": 2,
+      "line": "A2-01",
+      "sentence": "Growing up, sports were a big part of my life.",
+      "start": 46.75541666666666,
+      "end": 49.75858333333333,
+      "voice": "am_michael"
+    },
+    {
+      "act": 2,
+      "line": "A2-01",
+      "sentence": "I played rugby and water polo and swam competitively.",
+      "start": 49.99858333333333,
+      "end": 53.688541666666666,
+      "voice": "am_michael"
+    },
+    {
+      "act": 2,
+      "line": "A2-01",
+      "sentence": "Those experiences taught me discipline, resilience, and how to perform both as part of a team and on my own.",
+      "start": 53.92854166666667,
+      "end": 61.27041666666667,
+      "voice": "am_michael"
+    },
+    {
+      "act": 2,
+      "line": "A2-02",
+      "sentence": "Traveling across Africa, Europe, and Asia also pushed me outside my comfort zone.",
+      "start": 61.61041666666667,
+      "end": 67.42354166666668,
+      "voice": "am_michael"
+    },
+    {
+      "act": 2,
+      "line": "A2-02",
+      "sentence": "Each place introduced me to new perspectives and helped me become more comfortable connecting with people from different backgrounds.",
+      "start": 67.66354166666667,
+      "end": 75.10716666666667,
+      "voice": "am_michael"
+    },
+    {
+      "act": 3,
+      "line": "A3-01",
+      "sentence": "That adaptability has carried into my professional experiences.",
+      "start": 75.84716666666668,
+      "end": 79.95175000000002,
+      "voice": "am_michael"
+    },
+    {
+      "act": 3,
+      "line": "A3-01",
+      "sentence": "At Fine & Rare Wines in South Africa, I gained exposure to supply chain operations and client service.",
+      "start": 80.19175000000001,
+      "end": 87.54170833333335,
+      "voice": "am_michael"
+    },
+    {
+      "act": 3,
+      "line": "A3-01",
+      "sentence": "At DM Financial in Ireland, I worked with financial statements, helped with payroll and supported the management accounts team.",
+      "start": 87.78170833333334,
+      "end": 96.46266666666668,
+      "voice": "am_michael"
+    },
+    {
+      "act": 3,
+      "line": "A3-02",
+      "sentence": "Most recently, at Abstrakt Marketing Group in Saint Louis, I stepped into a fast-paced sales environment and connected with business leaders to identify opportunities.",
+      "start": 96.80266666666668,
+      "end": 107.86345833333334,
+      "voice": "am_michael"
+    },
+    {
+      "act": 3,
+      "line": "A3-02",
+      "sentence": "There, I generated 10 qualified appointments representing roughly two hundred and fifty thousand dollars in potential pipeline revenue.",
+      "start": 108.10345833333334,
+      "end": 116.62916666666666,
+      "voice": "am_michael"
+    },
+    {
+      "act": 3,
+      "line": "A3-03",
+      "sentence": "Each experience challenged me in a different way, but all three taught me the importance of getting comfortable being uncomfortable, building trust, and being willing to learn.",
+      "start": 116.96916666666667,
+      "end": 127.79820833333333,
+      "voice": "am_michael"
+    },
+    {
+      "act": 4,
+      "line": "A4-01",
+      "sentence": "Today, I bring those lessons with me to Eller and to the Arizona water polo team.",
+      "start": 128.53820833333333,
+      "end": 134.115,
+      "voice": "am_michael"
+    },
+    {
+      "act": 4,
+      "line": "A4-01",
+      "sentence": "Balancing academics, athletics, and professional opportunities has strengthened my time management and commitment to the people who count on me.",
+      "start": 134.35500000000002,
+      "end": 143.84150000000002,
+      "voice": "am_michael"
+    },
+    {
+      "act": 4,
+      "line": "A4-02",
+      "sentence": "For a real estate team or growing business, I bring a willingness to learn, a perspective shaped by international experiences, and the communication skills to connect with different people.",
+      "start": 144.18150000000003,
+      "end": 156.4079166666667,
+      "voice": "am_michael"
+    },
+    {
+      "act": 4,
+      "line": "A4-02",
+      "sentence": "I’m excited by opportunities where I can help build relationships, solve problems, and contribute to a team.",
+      "start": 156.6479166666667,
+      "end": 163.78833333333336,
+      "voice": "am_michael"
+    },
+    {
+      "act": 5,
+      "line": "A5-01",
+      "sentence": "Looking ahead, I want to learn from experienced professionals, explore commercial real estate, and eventually start a business of my own.",
+      "start": 164.52833333333336,
+      "end": 173.79037500000004,
+      "voice": "am_michael"
+    },
+    {
+      "act": 5,
+      "line": "A5-02",
+      "sentence": "If you’re looking for someone who is curious, adaptable, and ready to contribute, I’d love to connect through LinkedIn or email.",
+      "start": 174.13037500000004,
+      "end": 182.25137500000005,
+      "voice": "am_michael"
+    },
+    {
+      "act": 5,
+      "line": "A5-02",
+      "sentence": "Thank you for taking the time to learn a little about me.",
+      "start": 182.49137500000006,
+      "end": 185.5379583333334,
+      "voice": "am_michael"
+    }
+  ],
+  "contacts": {
+    "name": "Alexander Leiar",
+    "email": "alexleiar@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/alex-leiar-395b1a415/"
+  },
+  "source_script": "five-act script supplied by user; only numeric formatting expanded for pronunciation"
+}

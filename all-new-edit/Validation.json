@@ -1,0 +1,20 @@
+{
+  "duration_seconds": 175,
+  "video_frames": 4200,
+  "size": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "audio_sample_rate": "48000",
+  "audio_channels": 2,
+  "integrated_loudness_lufs": "-16.07",
+  "true_peak_dbfs": "-1.41",
+  "full_decode": "passed with ffmpeg -xerror",
+  "complete_script": "all supplied narration lines synthesized; numeric formatting and Saint Louis pronunciation expanded",
+  "original_user_media_used": false,
+  "synthetic_voice": "Kokoro am_michael; not a voice clone",
+  "visuals": "13 newly generated scene plates with depth-camera animation, custom Three.js globe and legacy Coverr stock inserts",
+  "sha256": "374a76c05ed3157ee6177acd44b56a12f97117db9cf08b2c92d230dbb6821155",
+  "bytes": 87852529
+}

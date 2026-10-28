@@ -1,0 +1,698 @@
+{
+  "fps": 24,
+  "duration": 175,
+  "pace": 1.09,
+  "original_user_media_used": false,
+  "synthetic_narration": true,
+  "scene_generation": "new imagegen plates animated with MiDaS depth and virtual cameras",
+  "stock": "legacy Coverr-source material with source/license evidence in stock_sources.json",
+  "segments": [
+    {
+      "index": 0,
+      "start": 0,
+      "end": 2.4,
+      "asset": "globe",
+      "offset": 0,
+      "frames": 58
+    },
+    {
+      "index": 1,
+      "start": 2.4,
+      "end": 4.2,
+      "asset": "capetown",
+      "offset": 0.6,
+      "frames": 43
+    },
+    {
+      "index": 2,
+      "start": 4.2,
+      "end": 7.3,
+      "asset": "globe",
+      "offset": 5.5,
+      "frames": 74
+    },
+    {
+      "index": 3,
+      "start": 7.3,
+      "end": 10.3,
+      "asset": "arizona",
+      "offset": 0,
+      "frames": 72
+    },
+    {
+      "index": 4,
+      "start": 10.3,
+      "end": 12.8,
+      "asset": "office",
+      "offset": 0.5,
+      "frames": 60
+    },
+    {
+      "index": 5,
+      "start": 12.8,
+      "end": 15,
+      "asset": "arizona",
+      "offset": 1.5,
+      "frames": 53
+    },
+    {
+      "index": 6,
+      "start": 15,
+      "end": 18.2,
+      "asset": "exterior",
+      "offset": 0,
+      "frames": 77
+    },
+    {
+      "index": 7,
+      "start": 18.2,
+      "end": 20.2,
+      "asset": "work",
+      "offset": 3,
+      "frames": 48
+    },
+    {
+      "index": 8,
+      "start": 20.2,
+      "end": 22.8,
+      "asset": "globe",
+      "offset": 2,
+      "frames": 62
+    },
+    {
+      "index": 9,
+      "start": 22.8,
+      "end": 25.7,
+      "asset": "team",
+      "offset": 0.5,
+      "frames": 70
+    },
+    {
+      "index": 10,
+      "start": 25.7,
+      "end": 28.3,
+      "asset": "wildlife",
+      "offset": 0,
+      "frames": 62
+    },
+    {
+      "index": 11,
+      "start": 28.3,
+      "end": 30.9,
+      "asset": "lisbon",
+      "offset": 0.2,
+      "frames": 63
+    },
+    {
+      "index": 12,
+      "start": 30.9,
+      "end": 33.7,
+      "asset": "capetown",
+      "offset": 1,
+      "frames": 67
+    },
+    {
+      "index": 13,
+      "start": 33.7,
+      "end": 37,
+      "asset": "wildlife",
+      "offset": 0.8,
+      "frames": 79
+    },
+    {
+      "index": 14,
+      "start": 37,
+      "end": 39.5,
+      "asset": "globe",
+      "offset": 4,
+      "frames": 60
+    },
+    {
+      "index": 15,
+      "start": 39.5,
+      "end": 42.9,
+      "asset": "lisbon",
+      "offset": 0.6,
+      "frames": 82
+    },
+    {
+      "index": 16,
+      "start": 42.9,
+      "end": 45.9,
+      "asset": "pool",
+      "offset": 0,
+      "frames": 72
+    },
+    {
+      "index": 17,
+      "start": 45.9,
+      "end": 47.3,
+      "asset": "rugby",
+      "offset": 0.3,
+      "frames": 33
+    },
+    {
+      "index": 18,
+      "start": 47.3,
+      "end": 49.4,
+      "asset": "pool",
+      "offset": 1.2,
+      "frames": 51
+    },
+    {
+      "index": 19,
+      "start": 49.4,
+      "end": 51.4,
+      "asset": "rugby",
+      "offset": 1.6,
+      "frames": 48
+    },
+    {
+      "index": 20,
+      "start": 51.4,
+      "end": 53.5,
+      "asset": "pool",
+      "offset": 0.8,
+      "frames": 50
+    },
+    {
+      "index": 21,
+      "start": 53.5,
+      "end": 56.5,
+      "asset": "team",
+      "offset": 0.6,
+      "frames": 72
+    },
+    {
+      "index": 22,
+      "start": 56.5,
+      "end": 58.4,
+      "asset": "capetown",
+      "offset": 2,
+      "frames": 46
+    },
+    {
+      "index": 23,
+      "start": 58.4,
+      "end": 60.3,
+      "asset": "lisbon",
+      "offset": 2,
+      "frames": 45
+    },
+    {
+      "index": 24,
+      "start": 60.3,
+      "end": 62.1,
+      "asset": "globe",
+      "offset": 3,
+      "frames": 43
+    },
+    {
+      "index": 25,
+      "start": 62.1,
+      "end": 65,
+      "asset": "globe",
+      "offset": 6,
+      "frames": 70
+    },
+    {
+      "index": 26,
+      "start": 65,
+      "end": 68.6,
+      "asset": "team",
+      "offset": 0,
+      "frames": 86
+    },
+    {
+      "index": 27,
+      "start": 68.6,
+      "end": 69.6,
+      "asset": "office",
+      "offset": 2.8,
+      "frames": 24
+    },
+    {
+      "index": 28,
+      "start": 69.6,
+      "end": 73.5,
+      "asset": "globe",
+      "offset": 1,
+      "frames": 94
+    },
+    {
+      "index": 29,
+      "start": 73.5,
+      "end": 76.3,
+      "asset": "logistics",
+      "offset": 0,
+      "frames": 67
+    },
+    {
+      "index": 30,
+      "start": 76.3,
+      "end": 79,
+      "asset": "logistics",
+      "offset": 1.6,
+      "frames": 65
+    },
+    {
+      "index": 31,
+      "start": 79,
+      "end": 80.4,
+      "asset": "capetown",
+      "offset": 2,
+      "frames": 34
+    },
+    {
+      "index": 32,
+      "start": 80.4,
+      "end": 82.7,
+      "asset": "dublin",
+      "offset": 0.4,
+      "frames": 55
+    },
+    {
+      "index": 33,
+      "start": 82.7,
+      "end": 85.6,
+      "asset": "finance",
+      "offset": 0,
+      "frames": 69
+    },
+    {
+      "index": 34,
+      "start": 85.6,
+      "end": 88.7,
+      "asset": "office",
+      "offset": 0.7,
+      "frames": 75
+    },
+    {
+      "index": 35,
+      "start": 88.7,
+      "end": 92.3,
+      "asset": "stlouis",
+      "offset": 0,
+      "frames": 86
+    },
+    {
+      "index": 36,
+      "start": 92.3,
+      "end": 95.1,
+      "asset": "team",
+      "offset": 0.8,
+      "frames": 67
+    },
+    {
+      "index": 37,
+      "start": 95.1,
+      "end": 98.8,
+      "asset": "work",
+      "offset": 7,
+      "frames": 89
+    },
+    {
+      "index": 38,
+      "start": 98.8,
+      "end": 107.3,
+      "asset": "stlouis",
+      "offset": 0,
+      "frames": 204
+    },
+    {
+      "index": 39,
+      "start": 107.3,
+      "end": 110.8,
+      "asset": "capetown",
+      "offset": 0,
+      "frames": 84
+    },
+    {
+      "index": 40,
+      "start": 110.8,
+      "end": 114,
+      "asset": "dublin",
+      "offset": 0.9,
+      "frames": 77
+    },
+    {
+      "index": 41,
+      "start": 114,
+      "end": 118,
+      "asset": "team",
+      "offset": 0.1,
+      "frames": 96
+    },
+    {
+      "index": 42,
+      "start": 118,
+      "end": 121,
+      "asset": "arizona",
+      "offset": 0.3,
+      "frames": 72
+    },
+    {
+      "index": 43,
+      "start": 121,
+      "end": 124,
+      "asset": "pool",
+      "offset": 0.6,
+      "frames": 72
+    },
+    {
+      "index": 44,
+      "start": 124,
+      "end": 127,
+      "asset": "work",
+      "offset": 1.8,
+      "frames": 72
+    },
+    {
+      "index": 45,
+      "start": 127,
+      "end": 130,
+      "asset": "team",
+      "offset": 1,
+      "frames": 72
+    },
+    {
+      "index": 46,
+      "start": 130,
+      "end": 132.3,
+      "asset": "office",
+      "offset": 1.4,
+      "frames": 55
+    },
+    {
+      "index": 47,
+      "start": 132.3,
+      "end": 135.7,
+      "asset": "exterior",
+      "offset": 0.2,
+      "frames": 82
+    },
+    {
+      "index": 48,
+      "start": 135.7,
+      "end": 139,
+      "asset": "team",
+      "offset": 0.5,
+      "frames": 79
+    },
+    {
+      "index": 49,
+      "start": 139,
+      "end": 142.2,
+      "asset": "globe",
+      "offset": 6,
+      "frames": 77
+    },
+    {
+      "index": 50,
+      "start": 142.2,
+      "end": 145.4,
+      "asset": "finance",
+      "offset": 0.4,
+      "frames": 77
+    },
+    {
+      "index": 51,
+      "start": 145.4,
+      "end": 147.5,
+      "asset": "handyman",
+      "offset": 4,
+      "frames": 50
+    },
+    {
+      "index": 52,
+      "start": 147.5,
+      "end": 150.9,
+      "asset": "office",
+      "offset": 0.8,
+      "frames": 82
+    },
+    {
+      "index": 53,
+      "start": 150.9,
+      "end": 154,
+      "asset": "exterior",
+      "offset": 1,
+      "frames": 74
+    },
+    {
+      "index": 54,
+      "start": 154,
+      "end": 157.3,
+      "asset": "work",
+      "offset": 9,
+      "frames": 79
+    },
+    {
+      "index": 55,
+      "start": 157.3,
+      "end": 159.8,
+      "asset": "office",
+      "offset": 1.2,
+      "frames": 60
+    },
+    {
+      "index": 56,
+      "start": 159.8,
+      "end": 162.5,
+      "asset": "arizona",
+      "offset": 0.8,
+      "frames": 65
+    },
+    {
+      "index": 57,
+      "start": 162.5,
+      "end": 165,
+      "asset": "globe",
+      "offset": 7,
+      "frames": 60
+    },
+    {
+      "index": 58,
+      "start": 165,
+      "end": 167.5,
+      "asset": "team",
+      "offset": 1.6,
+      "frames": 60
+    },
+    {
+      "index": 59,
+      "start": 167.5,
+      "end": 170.3,
+      "asset": "capetown",
+      "offset": 1,
+      "frames": 67
+    },
+    {
+      "index": 60,
+      "start": 170.3,
+      "end": 175,
+      "asset": "globe",
+      "offset": 5.5,
+      "frames": 113
+    }
+  ],
+  "sentences": [
+    {
+      "act": 1,
+      "line": "A1-01",
+      "sentence": "One word I would use to describe myself is cosmopolitan—which in Greek means a citizen of the world.",
+      "start": 0.5045871559633027,
+      "end": 7.000955657492354,
+      "voice": "am_michael"
+    },
+    {
+      "act": 1,
+      "line": "A1-02",
+      "sentence": "Hi, I’m Alexander Leiar, a third-year business student at the University of Arizona’s Eller College of Management.",
+      "start": 7.312882262996941,
+      "end": 14.758944954128436,
+      "voice": "am_michael"
+    },
+    {
+      "act": 1,
+      "line": "A1-02",
+      "sentence": "For leaders in commercial real estate and entrepreneurship, I bring an international perspective, the ability to adapt, and a genuine interest in building relationships.",
+      "start": 14.979128440366967,
+      "end": 25.44067278287461,
+      "voice": "am_michael"
+    },
+    {
+      "act": 1,
+      "line": "A1-03",
+      "sentence": "My story is a little different from most.",
+      "start": 25.752599388379195,
+      "end": 28.073585626911306,
+      "voice": "am_michael"
+    },
+    {
+      "act": 1,
+      "line": "A1-03",
+      "sentence": "I was born in Portugal and grew up in South Africa, where I was exposed to different cultures, people, and ways of life from an early age.",
+      "start": 28.29376911314984,
+      "end": 36.982492354740046,
+      "voice": "am_michael"
+    },
+    {
+      "act": 1,
+      "line": "A1-03",
+      "sentence": "That experience taught me to stay open-minded and make the most of new situations.",
+      "start": 37.202675840978586,
+      "end": 42.21597859327216,
+      "voice": "am_michael"
+    },
+    {
+      "act": 2,
+      "line": "A2-01",
+      "sentence": "Growing up, sports were a big part of my life.",
+      "start": 42.89487767584097,
+      "end": 45.65007645259938,
+      "voice": "am_michael"
+    },
+    {
+      "act": 2,
+      "line": "A2-01",
+      "sentence": "I played rugby and water polo and swam competitively.",
+      "start": 45.87025993883791,
+      "end": 49.255542813455655,
+      "voice": "am_michael"
+    },
+    {
+      "act": 2,
+      "line": "A2-01",
+      "sentence": "Those experiences taught me discipline, resilience, and how to perform both as part of a team and on my own.",
+      "start": 49.47572629969419,
+      "end": 56.21139143730887,
+      "voice": "am_michael"
+    },
+    {
+      "act": 2,
+      "line": "A2-02",
+      "sentence": "Traveling across Africa, Europe, and Asia also pushed me outside my comfort zone.",
+      "start": 56.52331804281346,
+      "end": 61.856460244648325,
+      "voice": "am_michael"
+    },
+    {
+      "act": 2,
+      "line": "A2-02",
+      "sentence": "Each place introduced me to new perspectives and helped me become more comfortable connecting with people from different backgrounds.",
+      "start": 62.07664373088685,
+      "end": 68.90565749235473,
+      "voice": "am_michael"
+    },
+    {
+      "act": 3,
+      "line": "A3-01",
+      "sentence": "That adaptability has carried into my professional experiences.",
+      "start": 69.58455657492355,
+      "end": 73.35022935779817,
+      "voice": "am_michael"
+    },
+    {
+      "act": 3,
+      "line": "A3-01",
+      "sentence": "At Fine & Rare Wines in South Africa, I gained exposure to supply chain operations and client service.",
+      "start": 73.57041284403671,
+      "end": 80.31349388379205,
+      "voice": "am_michael"
+    },
+    {
+      "act": 3,
+      "line": "A3-01",
+      "sentence": "At DM Financial in Ireland, I worked with financial statements, helped with payroll and supported the management accounts team.",
+      "start": 80.53367737003059,
+      "end": 88.49785932721713,
+      "voice": "am_michael"
+    },
+    {
+      "act": 3,
+      "line": "A3-02",
+      "sentence": "Most recently, at Abstrakt Marketing Group in Saint Louis, I stepped into a fast-paced sales environment and connected with business leaders to identify opportunities.",
+      "start": 88.80978593272172,
+      "end": 98.95730122324159,
+      "voice": "am_michael"
+    },
+    {
+      "act": 3,
+      "line": "A3-02",
+      "sentence": "There, I generated 10 qualified appointments representing roughly two hundred and fifty thousand dollars in potential pipeline revenue.",
+      "start": 99.17748470948011,
+      "end": 106.9992354740061,
+      "voice": "am_michael"
+    },
+    {
+      "act": 3,
+      "line": "A3-03",
+      "sentence": "Each experience challenged me in a different way, but all three taught me the importance of getting comfortable being uncomfortable, building trust, and being willing to learn.",
+      "start": 107.3111620795107,
+      "end": 117.24606269113148,
+      "voice": "am_michael"
+    },
+    {
+      "act": 4,
+      "line": "A4-01",
+      "sentence": "Today, I bring those lessons with me to Eller and to the Arizona water polo team.",
+      "start": 117.92496177370029,
+      "end": 123.04128440366972,
+      "voice": "am_michael"
+    },
+    {
+      "act": 4,
+      "line": "A4-01",
+      "sentence": "Balancing academics, athletics, and professional opportunities has strengthened my time management and commitment to the people who count on me.",
+      "start": 123.26146788990826,
+      "end": 131.96467889908257,
+      "voice": "am_michael"
+    },
+    {
+      "act": 4,
+      "line": "A4-02",
+      "sentence": "For a real estate team or growing business, I bring a willingness to learn, a perspective shaped by international experiences, and the communication skills to connect with different people.",
+      "start": 132.27660550458717,
+      "end": 143.493501529052,
+      "voice": "am_michael"
+    },
+    {
+      "act": 4,
+      "line": "A4-02",
+      "sentence": "I’m excited by opportunities where I can help build relationships, solve problems, and contribute to a team.",
+      "start": 143.71368501529054,
+      "end": 150.2645259938838,
+      "voice": "am_michael"
+    },
+    {
+      "act": 5,
+      "line": "A5-01",
+      "sentence": "Looking ahead, I want to learn from experienced professionals, explore commercial real estate, and eventually start a business of my own.",
+      "start": 150.94342507645263,
+      "end": 159.44071100917435,
+      "voice": "am_michael"
+    },
+    {
+      "act": 5,
+      "line": "A5-02",
+      "sentence": "If you’re looking for someone who is curious, adaptable, and ready to contribute, I’d love to connect through LinkedIn or email.",
+      "start": 159.75263761467892,
+      "end": 167.20309633027526,
+      "voice": "am_michael"
+    },
+    {
+      "act": 5,
+      "line": "A5-02",
+      "sentence": "Thank you for taking the time to learn a little about me.",
+      "start": 167.4232798165138,
+      "end": 170.21831039755355,
+      "voice": "am_michael"
+    }
+  ],
+  "contacts": {
+    "name": "Alexander Leiar",
+    "email": "alexleiar@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/alex-leiar-395b1a415/"
+  }
+}

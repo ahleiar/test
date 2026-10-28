@@ -1,0 +1,22 @@
+[
+  {
+    "name": "handyman",
+    "file": "/workspace/video-all-new/assets/handyman.mp4",
+    "source": "https://raw.githubusercontent.com/JettTech/homepageVid/master/assets/images/MP4/Handyman.mp4",
+    "sha256": "a337df9fc747c8f4ccc7fabc9a1b33712d12ca324ff17d28097d5c0e38c71e78",
+    "bytes": 5235073,
+    "original_provider": "Coverr (legacy CC0 distribution)",
+    "license_reference": "https://github.com/neutraltone/awesome-stock-resources#videos",
+    "provider_credit_evidence": "Repository HTML explicitly credits Coverr; original filenames retained."
+  },
+  {
+    "name": "work",
+    "file": "/workspace/video-all-new/assets/work.mp4",
+    "source": "https://raw.githubusercontent.com/jvining/Video-Hero-Image-Coverr-Demo/master/mov/Love-Coding.mp4",
+    "sha256": "f5944a914877beaf241452b62248115c2482ac0c22dad125e723ac1d4782ce78",
+    "bytes": 5520253,
+    "original_provider": "Coverr (legacy CC0 distribution)",
+    "license_reference": "https://github.com/neutraltone/awesome-stock-resources#videos",
+    "provider_credit_evidence": "Repository HTML explicitly credits Coverr; original filenames retained."
+  }
+]
